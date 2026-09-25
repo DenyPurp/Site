@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Контакты — ВкусноДома</title>
+  <meta name="description" content="Контакты редакции сайта рецептов ВкусноДома и форма обратной связи.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Manrope:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-base="" data-active="contacts">
+<main class="wrap page-hero">
+  <nav class="breadcrumbs"><a href="index.html">Главная</a> / Контакты</nav>
+  <h1>Контакты</h1>
+  <p class="lead">Напишите нам, если хотите предложить рецепт, сообщить об ошибке или обсудить сотрудничество.</p>
+  <div class="contact-grid">
+    <section class="panel">
+      <h2>Редакция</h2>
+      <p>Тульский государственный университет<br>Кафедра вычислительной техники</p>
+      <p>Email: hello@vkusnodoma.example<br>Телефон: +7 (4872) 00-00-00</p>
+      <p>Пн–Пт, 10:00–18:00</p>
+    </section>
+    <form class="panel" action="contacts.html" method="get">
+      <div class="form-row"><label for="name">Имя</label><input id="name" name="name" required></div>
+      <div class="form-row"><label for="email">Email</label><input id="email" name="email" type="email" required></div>
+      <div class="form-row"><label for="msg">Сообщение</label><textarea id="msg" name="msg" rows="5" required></textarea></div>
+      <button class="btn btn-primary" type="submit">Отправить</button>
+    </form>
+  </div>
+</main>
+<script src="js/site.js"></script>
+</body>
+</html>

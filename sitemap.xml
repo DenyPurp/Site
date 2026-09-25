@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>index.html</loc></url>
+  <url><loc>recipes/index.html</loc></url>
+  <url><loc>recipes/soups.html</loc></url>
+  <url><loc>recipes/mains.html</loc></url>
+  <url><loc>recipes/salads.html</loc></url>
+  <url><loc>recipes/baking.html</loc></url>
+  <url><loc>recipes/breakfasts.html</loc></url>
+  <url><loc>recipes/borscht.html</loc></url>
+  <url><loc>recipes/chicken-soup.html</loc></url>
+  <url><loc>recipes/olivie.html</loc></url>
+  <url><loc>recipes/caesar.html</loc></url>
+  <url><loc>recipes/bliny.html</loc></url>
+  <url><loc>recipes/syrniki.html</loc></url>
+  <url><loc>recipes/napoleon.html</loc></url>
+  <url><loc>recipes/shashlik.html</loc></url>
+  <url><loc>collections/index.html</loc></url>
+  <url><loc>collections/quick.html</loc></url>
+  <url><loc>collections/everyday.html</loc></url>
+  <url><loc>collections/festive.html</loc></url>
+  <url><loc>articles/index.html</loc></url>
+  <url><loc>articles/spices.html</loc></url>
+  <url><loc>articles/mise-en-place.html</loc></url>
+  <url><loc>about.html</loc></url>
+  <url><loc>faq.html</loc></url>
+  <url><loc>contacts.html</loc></url>
+  <url><loc>search.html</loc></url>
+  <url><loc>sitemap.html</loc></url>
+</urlset>
